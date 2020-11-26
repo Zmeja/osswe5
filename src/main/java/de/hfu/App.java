@@ -5,11 +5,16 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 /**
- * Hello world!
+ * App Class - Has my Main Code in it.
+ * @author Zmejaa
  *
  */
 public class App
 {
+	/**
+	 * Main Method
+	 * @param args
+	 */
     public static void main( String[] args )
     {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
