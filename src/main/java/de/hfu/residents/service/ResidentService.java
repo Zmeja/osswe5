@@ -6,6 +6,8 @@ import de.hfu.residents.domain.Resident;
 
 /**
  * @author Stefan Betermieux
+ * 
+ * Additional Documentation for Task 8
  */
 public interface ResidentService {
 
